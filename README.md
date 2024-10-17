@@ -45,7 +45,7 @@ This is a simple Flask application that can be used to test webhooks. It uses ng
 
 3. Use the ngrok URL as your webhook URL when setting up your webhook. For example:
    ```
-   https://1234abcd.ngrok.io/webhook
+   https://1234abcd.ngrok.io/wayfaster-webhook
    ```
 
 4. The application will now receive and log any POST requests sent to the `/webhook` endpoint.
