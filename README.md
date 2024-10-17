@@ -12,7 +12,7 @@ This is a simple Flask application that can be used to test webhooks. It uses ng
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/webhook-tester.git
+   git clone https://github.com/wayfaster/webhook-tester.git
    cd webhook-tester
    ```
 
